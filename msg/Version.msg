@@ -1,0 +1,2 @@
+string version
+string serialno
